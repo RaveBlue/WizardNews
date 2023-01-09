@@ -1,0 +1,1 @@
+const DATABASE_URL = 'postgres://wizardnews_p2yv_user:keflyYKp2SLMTzDKN9yZH0qOORukHW2W@dpg-cetpe1pgp3jmgl1rkm80-a/wizardnews_p2yv'
