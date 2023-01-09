@@ -69,7 +69,6 @@ textarea {
   padding-bottom: 25px;
 }
 
-
 .news-item {
   padding: 0 15px;
 }
@@ -81,13 +80,4 @@ textarea {
 .news-info {
   margin-left: 40px;
 }
-
-/* iframe {
-  display: block;
-}
-
-.not-found {
-  display: flex;
-  justify-content: center;
-} */
 
